@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASP NET 03. Razor Pages Products site.props" />
+</Project>
