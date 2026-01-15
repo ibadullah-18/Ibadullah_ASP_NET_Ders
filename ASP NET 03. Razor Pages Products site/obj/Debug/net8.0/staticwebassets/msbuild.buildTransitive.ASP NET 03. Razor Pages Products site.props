@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ASP NET 03. Razor Pages Products site.props" />
+</Project>

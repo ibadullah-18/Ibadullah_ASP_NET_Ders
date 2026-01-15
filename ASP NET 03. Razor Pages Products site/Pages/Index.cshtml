@@ -1,0 +1,56 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Add Product";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+
+            <div class="card shadow-lg border-0 rounded-4">
+                <div class="card-body p-4">
+
+                    <h2 class="text-center fw-bold text-primary mb-4">
+                        Yeni Məhsul Əlavə Et
+                    </h2>
+
+                    <form method="post">
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Name</label>
+                            <input type="text" name="Name" class="form-control"
+                                   placeholder="Məhsul adı" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Description</label>
+                            <input type="text" name="Description" class="form-control"
+                                   placeholder="Açıqlama" />
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Price</label>
+                            <input type="number" name="Price" class="form-control"
+                                   placeholder="Qiymət" step="0.01" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Count</label>
+                            <input type="number" name="Count" class="form-control"
+                                   placeholder="Miqdar" min="0" required />
+                        </div>
+
+                        <button type="submit"
+                                class="btn btn-primary w-100 mt-3">
+                            ➕ Məhsul əlavə et
+                        </button>
+
+                    </form>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

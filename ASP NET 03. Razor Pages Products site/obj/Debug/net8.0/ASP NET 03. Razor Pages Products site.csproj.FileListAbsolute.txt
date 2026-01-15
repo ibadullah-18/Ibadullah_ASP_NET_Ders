@@ -1,0 +1,38 @@
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\bin\Debug\net8.0\appsettings.json
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\bin\Debug\net8.0\ASP NET 03. Razor Pages Products site.staticwebassets.runtime.json
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\bin\Debug\net8.0\ASP NET 03. Razor Pages Products site.staticwebassets.endpoints.json
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\bin\Debug\net8.0\ASP NET 03. Razor Pages Products site.exe
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\bin\Debug\net8.0\ASP NET 03. Razor Pages Products site.deps.json
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\bin\Debug\net8.0\ASP NET 03. Razor Pages Products site.runtimeconfig.json
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\bin\Debug\net8.0\ASP NET 03. Razor Pages Products site.dll
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\bin\Debug\net8.0\ASP NET 03. Razor Pages Products site.pdb
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\ASP NET 03. Razor Pages Products site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\ASP NET 03. Razor Pages Products site.AssemblyInfoInputs.cache
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\ASP NET 03. Razor Pages Products site.AssemblyInfo.cs
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\ASP NET 03. Razor Pages Products site.csproj.CoreCompileInputs.cache
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\ASP NET 03. Razor Pages Products site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\ASP NET 03. Razor Pages Products site.RazorAssemblyInfo.cache
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\ASP NET 03. Razor Pages Products site.RazorAssemblyInfo.cs
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\scopedcss\bundle\ASP NET 03. Razor Pages Products site.styles.css
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\scopedcss\projectbundle\ASP NET 03. Razor Pages Products site.bundle.scp.css
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\staticwebassets\msbuild.ASP NET 03. Razor Pages Products site.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\staticwebassets\msbuild.ASP NET 03. Razor Pages Products site.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP NET 03. Razor Pages Products site.props
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP NET 03. Razor Pages Products site.props
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP NET 03. Razor Pages Products site.props
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\ASP NET 03. Razor Pages Products site.dll
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\refint\ASP NET 03. Razor Pages Products site.dll
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\ASP NET 03. Razor Pages Products site.pdb
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\ASP NET 03. Razor Pages Products site.genruntimeconfig.cache
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\ref\ASP NET 03. Razor Pages Products site.dll
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\bin\Debug\net8.0\Bogus.dll
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\ASP NET 03. Razor Pages Products site.csproj.AssemblyReference.cache
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\ASP NET .9FC38BCF.Up2Date
+C:\Users\Husey_iz52\source\repos\ASP_NET_Ibadullah\ASP NET 03. Razor Pages Products site\obj\Debug\net8.0\ASP NET 03. Razor Pages Products site.sourcelink.json
